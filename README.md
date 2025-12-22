@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reid Vogel and I'm currently a student at Montana State University. I will be graduating soon with a degree in computer science and minor in Data Science.
 - 🌳 Outside of coding, things I like to do include hockey, skiing, and being outdoors.
-- 📚 I’m currently learning computer systems and security at MSU. These are two classes that I'm currently taking that interest me and would like to persue.
+- 📚 I have taken Software Engineering, Computer Security, Networks, Databases, Linear Algebra, Calculus I-III
 - 🤝I’m looking to collaborate on things that will help me improve my skills no matter the topic.
 - 📫 You can reach out to my email - rwvogel8@gmail.com
 - ⚡ Fun fact: I've worked at a ski area for 6 seasons.
